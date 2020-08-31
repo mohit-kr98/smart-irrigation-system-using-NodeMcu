@@ -1,4 +1,4 @@
-# smart-irrigation-system-using-arduino
+# smart-irrigation-system-using-NodeMCU
 
 The Project Comprises Of Two units : 
 1. Main Unit 
